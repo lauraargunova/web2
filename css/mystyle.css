@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding:0;
+  width: 100%;
+  height: 100%;
+  background-color:#FFE4C4;
+}
+
+header{
+  background-color: #FFDEADdd;
+  height: 50%;
+}
+footer{
+  background-color: pink;
+  height: 25%;
+}
